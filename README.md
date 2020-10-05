@@ -7,6 +7,8 @@ Smart lock system designed using Arduino and Firebase
 * 90g Servo
 * 5v Wall Adapter
 
+![alt text](circuit.png)
+
 ### Application used: 
 To lock and unlock the door we need a device running either android or windows with bluetooth builtin.
 To install on Android you will need to go to the play store and download and app called Bluetooth Terminal and for windows its called TeraTerm next we need to
